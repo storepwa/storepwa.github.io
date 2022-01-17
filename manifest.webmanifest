@@ -1,11 +1,16 @@
 {
   "name": "storepwatest",
+  "id": "storepwatest",
+  "short_name": "pwa test",
+  "theme_color": "#FBFBFF",
+  "orientation": "natural",
+  "lang": "en-US",
   "description": "A test pwa app for store submission",
   "start_url": "/index.html",
   "developer": {
     "name": "KaiOS",
     "url": "http://kaiostech.com"
-  }, 
+  },
   "icons": [{
       "src": "/icons/icon16x16.png",
       "sizes": "16x16"

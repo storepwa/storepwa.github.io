@@ -1,5 +1,10 @@
 {
   "name": "storepwa测试",
+  "id": "storepwatest",
+  "short_name": "pwa 测试",
+  "theme_color": "#FBFBFF",
+  "orientation": "natural",
+  "lang": "zh-CN",
   "description": "中文 locale A test pwa app for store submission",
   "start_url": "/index.html",
   "developer": {
